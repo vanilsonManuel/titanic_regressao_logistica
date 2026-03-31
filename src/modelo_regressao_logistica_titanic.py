@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Mar 31 13:14:27 2026
+
 
 @author: Vanilson Mamuel
 """
